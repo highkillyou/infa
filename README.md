@@ -29,3 +29,11 @@ o co chodzi z ta sigma -_-
 *tf am i doin here*
 
 *it's cool i'll get this*
+
+
+## proba numerowania
+1. punkt pierwszy
+2. punkt drugi
+  * podpunkt 1
+  * podpunkt 2
+3. punkt trzeci
