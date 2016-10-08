@@ -19,6 +19,7 @@ ssh - logowanie zdalne
 
  **rozdzial 6.1 setup
 mastering markdown**
+
 gitlab ale to pozniej
 
 o co chodzi z ta sigma -_-
@@ -37,3 +38,8 @@ o co chodzi z ta sigma -_-
   * podpunkt 1
   * podpunkt 2
 3. punkt trzeci
+
+
+### inne
+
+_W tym tekscie **najwazniejsze** jest zeby wyszedl poprawnie_
