@@ -6,13 +6,15 @@ sigma.ug.edu.pl
 ssh - logowanie zdalne
 
 #### w bashu
-
-* 1. cd katalog albo cd ../ katalog wyzej
-* 2. mv - cut
-* 3. cp - copy      -    nie skumane
-* 4. alt+backspace nie pamietam
-* 5. rm -rf* kasuje wszystko
-* 6. ls albo ls -l wyswietla pliki
+###### bash mnie ogolnie rozjechal
+1. cd katalog albo cd ../ katalog wyzej
+2. mv - cut
+3. cp - copy      -    nie skumane
+  * nie wiem jak skopiowac plik do innego katalogu
+4. alt+backspace
+  * nie pamietam nawet co to bylo
+5. rm -rf* kasuje wszystko - **ostrożnie**
+6. ls albo ls -l wyswietla pliki
 
 
 #### do obczajenia
@@ -37,9 +39,12 @@ o co chodzi z ta sigma -_-
 2. punkt drugi
   * podpunkt 1
   * podpunkt 2
+    * podpunkt podpunktu?
 3. punkt trzeci
 
 
 ### inne
 
 _W tym tekscie **najwazniejsze** jest zeby wyszedl poprawnie_
+
+
