@@ -27,4 +27,5 @@ o co chodzi z ta sigma -_-
 ### thoughts
 
 *tf am i doin here*
+
 *it's cool i'll get this*
