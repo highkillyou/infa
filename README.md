@@ -7,22 +7,19 @@ ssh - logowanie zdalne
 
 #### w bashu
 
-cd katalog albo cd ../ katalog wyzej
+* 1. cd katalog albo cd ../ katalog wyzej
 
-mv - cut
-cp - copy      -    nie skumane
-
-alt+backspace nie pamietam
-
-rm -rf* kasuje wszystko
-
-ls albo ls -l wyswietla pliki
+* 2. mv - cut
+* 3. cp - copy      -    nie skumane
+* 4. alt+backspace nie pamietam
+* 5. rm -rf* kasuje wszystko
+* 6. ls albo ls -l wyswietla pliki
 
 
 #### do obczajenia
 
-rozdzial 6.1 setup
-mastering markdown
+ **rozdzial 6.1 setup
+mastering markdown**
 gitlab ale to pozniej
 
 o co chodzi z ta sigma -_-
@@ -30,6 +27,5 @@ o co chodzi z ta sigma -_-
 
 ### thoughts
 
-tf am i doin here
-
-it's cool i'll get this
+*tf am i doin here*
+*it's cool i'll get this*
