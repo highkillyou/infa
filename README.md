@@ -8,7 +8,6 @@ ssh - logowanie zdalne
 #### w bashu
 
 * 1. cd katalog albo cd ../ katalog wyzej
-
 * 2. mv - cut
 * 3. cp - copy      -    nie skumane
 * 4. alt+backspace nie pamietam
